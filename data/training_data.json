@@ -1,0 +1,362 @@
+[
+  {
+    "query": "What new product did they launch?",
+    "label": "product"
+  },
+  {
+    "query": "Any recent feature releases?",
+    "label": "product"
+  },
+  {
+    "query": "What updates did they announce?",
+    "label": "product"
+  },
+  {
+    "query": "Tell me about their latest product",
+    "label": "product"
+  },
+  {
+    "query": "What are they building now?",
+    "label": "product"
+  },
+  {
+    "query": "Did they release anything new?",
+    "label": "product"
+  },
+  {
+    "query": "What features were added recently?",
+    "label": "product"
+  },
+  {
+    "query": "Show me their product announcements",
+    "label": "product"
+  },
+  {
+    "query": "What is their newest offering?",
+    "label": "product"
+  },
+  {
+    "query": "Have they shipped any updates?",
+    "label": "product"
+  },
+  {
+    "query": "What new tools did they build?",
+    "label": "product"
+  },
+  {
+    "query": "Did they launch a new app?",
+    "label": "product"
+  },
+  {
+    "query": "What product improvements did they make?",
+    "label": "product"
+  },
+  {
+    "query": "Any new integrations released?",
+    "label": "product"
+  },
+  {
+    "query": "What did they add to their platform?",
+    "label": "product"
+  },
+  {
+    "query": "Tell me about their new features",
+    "label": "product"
+  },
+  {
+    "query": "What is their latest release?",
+    "label": "product"
+  },
+  {
+    "query": "Did they roll out any new capabilities?",
+    "label": "product"
+  },
+  {
+    "query": "What new version did they ship?",
+    "label": "product"
+  },
+  {
+    "query": "What products are they working on?",
+    "label": "product"
+  },
+  {
+    "query": "Any beta features announced?",
+    "label": "product"
+  },
+  {
+    "query": "What did they unveil at their event?",
+    "label": "product"
+  },
+  {
+    "query": "Show me their roadmap updates",
+    "label": "product"
+  },
+  {
+    "query": "What new module did they introduce?",
+    "label": "product"
+  },
+  {
+    "query": "Have they upgraded their product?",
+    "label": "product"
+  },
+  {
+    "query": "What is new in their software?",
+    "label": "product"
+  },
+  {
+    "query": "Did they announce a new tool?",
+    "label": "product"
+  },
+  {
+    "query": "What launches happened this quarter?",
+    "label": "product"
+  },
+  {
+    "query": "What capabilities did they just add?",
+    "label": "product"
+  },
+  {
+    "query": "What new feature should I know about?",
+    "label": "product"
+  },
+  {
+    "query": "Are they hiring right now?",
+    "label": "hiring"
+  },
+  {
+    "query": "What job openings do they have?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they recruiting engineers?",
+    "label": "hiring"
+  },
+  {
+    "query": "What roles are they hiring for?",
+    "label": "hiring"
+  },
+  {
+    "query": "Do they have any open positions?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they expanding their team?",
+    "label": "hiring"
+  },
+  {
+    "query": "What positions are available?",
+    "label": "hiring"
+  },
+  {
+    "query": "Is the company growing headcount?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they looking for ML engineers?",
+    "label": "hiring"
+  },
+  {
+    "query": "What jobs are posted on their careers page?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they interviewing candidates?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they hiring data scientists?",
+    "label": "hiring"
+  },
+  {
+    "query": "What openings are on their job board?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they recruiting for sales roles?",
+    "label": "hiring"
+  },
+  {
+    "query": "How many people are they hiring?",
+    "label": "hiring"
+  },
+  {
+    "query": "What teams are they growing?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they hiring remote workers?",
+    "label": "hiring"
+  },
+  {
+    "query": "Do they have engineering vacancies?",
+    "label": "hiring"
+  },
+  {
+    "query": "What talent are they looking for?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they staffing up?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are there internship openings?",
+    "label": "hiring"
+  },
+  {
+    "query": "What departments are hiring?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they hiring in India?",
+    "label": "hiring"
+  },
+  {
+    "query": "Is there a job opening for developers?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they adding to their workforce?",
+    "label": "hiring"
+  },
+  {
+    "query": "What kind of candidates do they want?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they filling leadership roles?",
+    "label": "hiring"
+  },
+  {
+    "query": "Do they need product managers?",
+    "label": "hiring"
+  },
+  {
+    "query": "Are they on a hiring spree?",
+    "label": "hiring"
+  },
+  {
+    "query": "What positions did they post recently?",
+    "label": "hiring"
+  },
+  {
+    "query": "What is their pricing?",
+    "label": "pricing"
+  },
+  {
+    "query": "How much do they charge?",
+    "label": "pricing"
+  },
+  {
+    "query": "What are their plans and costs?",
+    "label": "pricing"
+  },
+  {
+    "query": "Did they change their pricing?",
+    "label": "pricing"
+  },
+  {
+    "query": "What is their subscription cost?",
+    "label": "pricing"
+  },
+  {
+    "query": "How expensive is their product?",
+    "label": "pricing"
+  },
+  {
+    "query": "What tiers do they offer?",
+    "label": "pricing"
+  },
+  {
+    "query": "Tell me about their pricing model",
+    "label": "pricing"
+  },
+  {
+    "query": "What does their premium plan cost?",
+    "label": "pricing"
+  },
+  {
+    "query": "Are their prices going up?",
+    "label": "pricing"
+  },
+  {
+    "query": "How is their product priced for teams?",
+    "label": "pricing"
+  },
+  {
+    "query": "What enterprise plans do they have?",
+    "label": "pricing"
+  },
+  {
+    "query": "What is the monthly cost?",
+    "label": "pricing"
+  },
+  {
+    "query": "How much is the annual plan?",
+    "label": "pricing"
+  },
+  {
+    "query": "What is their cheapest plan?",
+    "label": "pricing"
+  },
+  {
+    "query": "Do they have a free tier?",
+    "label": "pricing"
+  },
+  {
+    "query": "What is the cost per user?",
+    "label": "pricing"
+  },
+  {
+    "query": "How does their pricing compare?",
+    "label": "pricing"
+  },
+  {
+    "query": "What are their subscription tiers?",
+    "label": "pricing"
+  },
+  {
+    "query": "Is there a discount for yearly billing?",
+    "label": "pricing"
+  },
+  {
+    "query": "What is their per seat cost?",
+    "label": "pricing"
+  },
+  {
+    "query": "How much for the business plan?",
+    "label": "pricing"
+  },
+  {
+    "query": "What pricing packages exist?",
+    "label": "pricing"
+  },
+  {
+    "query": "Did they raise their prices?",
+    "label": "pricing"
+  },
+  {
+    "query": "What is included in each plan?",
+    "label": "pricing"
+  },
+  {
+    "query": "How affordable is their service?",
+    "label": "pricing"
+  },
+  {
+    "query": "What is the price of their pro version?",
+    "label": "pricing"
+  },
+  {
+    "query": "Do they charge per feature?",
+    "label": "pricing"
+  },
+  {
+    "query": "What billing options do they offer?",
+    "label": "pricing"
+  },
+  {
+    "query": "How much does a license cost?",
+    "label": "pricing"
+  }
+]
